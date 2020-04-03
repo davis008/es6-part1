@@ -18,7 +18,10 @@
     "type": "git",
     "url": "git://github.com/kentcdodds/es6-workshop.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "global": "^4.4.0",
+    "yarn": "^1.22.4"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "chalk": "^2.3.2",
