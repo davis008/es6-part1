@@ -1,22 +1,19 @@
 {
-  "name": "ES6-Workshop",
+  "name": "es6-workshop",
   "version": "0.0.0",
   "private": true,
-  "description": "[![slides-badge][slides-badge]][slides] [![chat-badge][chat-badge]][chat] [![Build Status][build-badge]][build] [![Dependencies][dependencyci-badge]][dependencyci] [![MIT License][license-badge]][license] [![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors)",
-  "bugs": {
-    "url": "https://github.com/kentcdodds/es6-workshop/issues"
-  },
+  "description": "es6 workshop",
   "main": "index.js",
   "keywords": [
     "workshop",
     "es6"
   ],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "author": "",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/kentcdodds/es6-workshop",
+  "homepage": "https://github.com/davis008/es6-workshop-kentcdoddds.git ",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kentcdodds/es6-workshop.git"
+    "url": "https://github.com/davis008/es6-workshop-kentcdoddds.git "
   },
   "dependencies": {
     "global": "^4.4.0",
